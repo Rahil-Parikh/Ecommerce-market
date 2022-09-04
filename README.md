@@ -32,5 +32,7 @@ A few resources to get you started if this is your first Flutter project:
 <img src="https://user-images.githubusercontent.com/46090098/188291027-a89e450f-5314-4e2d-8404-7ea43740ce14.png" alt="Orders Page" data-canonical-src="https://user-images.githubusercontent.com/46090098/188291027-a89e450f-5314-4e2d-8404-7ea43740ce14.png" width="200" height="400" />
 
 ## Video Demonstration of the application
-https://user-images.githubusercontent.com/46090098/188291066-722ca84a-0312-4803-86e1-efee9039f995.mp4
+
+https://user-images.githubusercontent.com/46090098/188293802-f428e8d7-1478-4b1c-800f-c59c3cc1a166.mp4
+
 
