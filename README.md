@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/Made_with-Flutter-orange?style=for-the-badge&logo=flutter)]( https://flutter.dev/ "Flutter")![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-</h1>
 <span><h2 align="center">Ecommerce Market Application</h2></span>
 
 This project is a single admin seller multi-user buyer ecommerce Flutter application.
