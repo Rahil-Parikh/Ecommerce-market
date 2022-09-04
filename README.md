@@ -1,4 +1,6 @@
-# Market
+[![](https://img.shields.io/badge/Made_with-Flutter-orange?style=for-the-badge&logo=flutter)]( https://flutter.dev/ "Flutter")![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+</h1>
+<span><h2 align="center">Ecommerce Market Application</h2></span>
 
 This project is a single admin seller multi-user buyer ecommerce Flutter application.
 
@@ -10,10 +12,10 @@ A few resources to get you started if this is your first Flutter project:
 ## Modules in the project
 - Authentication (Login/Registration)
 - Admin Panel (Managing Product Inventory)
-- Main Page (Filter for products and Favoirite Picks)
+- Main Page (Filter for products and Favorite Picks)
 - Product Page (Product Quantity)
 - Cart (Manage Products in cart)
-- Orders (Previously Ordered Peoducts) 
+- Orders (Previously Ordered Products) 
 
 ## Admin Page
 <img src="https://user-images.githubusercontent.com/46090098/188290913-12313a8d-57e4-4499-928b-6de6201c3b8c.png" alt="Admin Page" data-canonical-src="https://user-images.githubusercontent.com/46090098/188290913-12313a8d-57e4-4499-928b-6de6201c3b8c.png" width="200" height="400" />
